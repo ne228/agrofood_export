@@ -1,0 +1,17 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,ANO CPUR/АНО ЦПУР
+title,"Экспорт и импорт российских регионов: таможенная статистика с детализацией до товаров за 2016-2021 гг."
+description,"Данные Федеральной таможенной службы по экспорту и импорту российских регионов, детализированные по десятизначным кодам товаров, в разрезе стран за 2016-2021 гг. Всего набор содержит 26 392 291 наблюдение по десяти атрибутам."
+creator,АНО ЦПУР - Центр перспективных управленческих решений
+created,20220324
+modified,20220324
+subject,
+format,CSV
+provenance,
+valid,
+publishername,
+publisherphone,
+publishermbox,v.kopytok@cpur.ru
+data,
+structure,

@@ -1,0 +1,11 @@
+field name;english description;russian description;measure;okei_code;format
+direction;Direction: export (ЭК) or import (ИМ);Направление поставок: экспорт (ЭК) или импорт (ИМ);;;string
+month;Delivery year and month;Месяц и год осуществления поставки;;;string
+country;Destination country code;Кодовое обозначение страны участника торговли в формате Alpha2 р;;;string
+code;Commodity Nomenclature of Foreign Economic Activity;Кодовое обозначение товара в соответствии с 10-значным классификатором ТН ВЭД;;;string
+measure;Additional measure;Краткое обозначение дополнительных единиц измерения товара;;;string
+value;The total volume of goods in deliveries according to customs declarations in US dollars;Суммарный объём товаров в поставках по таможенным декларациям в долларах США;Доллар США;840;numeric
+netto;Total net weight of goods in deliveries according to customs declarations in kilograms;Суммарный вес нетто товаров в поставках по таможенным декларациям в килограммах;КГ;166;numeric
+quantity;Total quantity of goods according to customs declarations in accordance with additional units of measurement;Суммарное количество товаров по таможенным декларациям в соответствии с дополнительными единицами измерения;;;numeric
+region;Region;Регион;;;string
+district;Federal district;Федеральный округ;;;string
